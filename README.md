@@ -1,118 +1,31 @@
-### Hi there 👋<h2> I'm Abhijeet</h2>
+### Hi there 👋 I'm Abhijeet
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+Backend engineer at **NPCI**, building the Java/Spring Boot microservices behind **UPI Lite**: wallet and mandate flows serving **193M+ users** and **~7.7M transactions a day**.
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3>👨🏻‍💻 About Me</h3>
 
-
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-
-- 🎓 &nbsp; Currently working as a software engineer @Capgemini(India).
-
-- 🌱 &nbsp; Learning about Android App development, Web development.
-
-- ✍️ &nbsp; looking for online work opportunities  in Android App development.
-
-
+- 🏦 &nbsp; Software Engineer (Backend) @ **National Payments Corporation of India (NPCI)**, working on the UPI Lite & BHIM platform
+- 🛠️ &nbsp; Led a team of 7 to build a **UPI Simulator** that emulates UPI Cloud, cutting local test turnaround from ~25–30 min to 1–2 min
+- ⚡ &nbsp; Focused on high-scale payment systems: latency, reliability, PII security and RBI compliance
+- 🌱 &nbsp; Currently deepening my skills in system design, distributed systems and AI-assisted engineering
+- 💬 &nbsp; Ask me about payments, UPI, microservices and production debugging
 
 <h3>🛠 Tech Stack</h3>
 
+- 💻 &nbsp; **Languages:** Java · C++ · SQL · JavaScript · TypeScript
+- 🌱 &nbsp; **Frameworks:** Spring Boot · Node.js
+- 🗄️ &nbsp; **Data:** PostgreSQL · YugabyteDB · Redis
+- ⚙️ &nbsp; **Infra & Messaging:** Kafka · AWS (SQS) · Docker · Grafana · Git
 
+<h3>💼 Experience</h3>
 
-- 💻 &nbsp;  Java | C++ | C | MySQL | Firebase | MongoDB
+- **NPCI**, Software Engineer (Backend) · Sep 2025 – Present
+- **Nupi Pay**, Software Engineer (Backend) · Jun 2024 – Sep 2025
+- **Capgemini (Barclays)**, Software Engineer · Oct 2021 – Sep 2022
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+<h3>🤝🏻 Connect with Me</h3>
 
-<!--
-
-- 🛢 &nbsp; MySQL | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
-
--->
-
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | React | Cybersecurity
-
-<hr>
-
-
-
-<br/><br/>
-
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KAbhijeet2105&show_icons=true)](https://github.com/KAbhijeet2105)
-
-<br/>
-
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAbhijeet2105&show_icons=true)
-
-<br><br>
-
-
-
-<hr>
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-
-
-<p align="center">
-
-  <!--
-<a href="https://shivammalpani.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
-
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
-
--->
-
-
+<p align="left">
 <a href="https://www.linkedin.com/in/kabhijeet21/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abhijeet%20Kadam-blue?style=flat-square&logo=linkedin"></a>
-
-
 <a href="mailto:ajayaish5@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ajayaish5@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
 </p>
-
-
-
-
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=KAbhijeet2105.KAbhijeet2105)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
-
-
-<hr>
-
-
-
-
-<!--
-**KAbhijeet2105/KAbhijeet2105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
